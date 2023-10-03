@@ -47,6 +47,16 @@
       "method": "Bake pizza.",
       "cookingTime": "45 minutes",
       "id": "ZGLVnli"
+    },
+    {
+      "title": "Cheese Pizza",
+      "ingredients": [
+        "pizza",
+        "no pepperoni"
+      ],
+      "method": "Take pepperoni off of pizza.",
+      "cookingTime": "30 minutes",
+      "id": "sceKSXa"
     }
   ]
 }
